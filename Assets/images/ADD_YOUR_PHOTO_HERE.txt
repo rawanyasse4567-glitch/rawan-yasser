@@ -1,0 +1,3 @@
+Put your personal photo in this folder and name it exactly: profile.jpg
+Supported expected format: JPG/JPEG. The website is configured to load Assets/images/profile.jpg.
+Keep the filename and folder path exactly as shown.

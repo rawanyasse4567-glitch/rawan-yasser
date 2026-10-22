@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset=".5" stop-color="#edf4ff"/><stop offset="1" stop-color="#dedfff"/></linearGradient><radialGradient id="glow"><stop stop-color="#79b6ff" stop-opacity=".35"/><stop offset="1" stop-color="#79b6ff" stop-opacity="0"/></radialGradient></defs>
+<rect width="1600" height="900" fill="url(#bg)"/><circle cx="1300" cy="180" r="500" fill="url(#glow)"/><circle cx="200" cy="750" r="430" fill="url(#glow)"/>
+<g fill="none" stroke="#75a9ff" stroke-opacity=".22" stroke-width="2"><path d="M0 650L280 420 500 520 760 250 1040 390 1310 120 1600 260"/><path d="M0 720L280 490 500 590 760 320 1040 460 1310 190 1600 330"/><circle cx="760" cy="250" r="90"/><circle cx="1310" cy="120" r="140"/><path d="M0 170H1600M0 340H1600M0 510H1600M0 680H1600" stroke-dasharray="5 13"/></g>
+<g fill="#438cff" fill-opacity=".6"><circle cx="280" cy="420" r="6"/><circle cx="760" cy="250" r="7"/><circle cx="1040" cy="390" r="6"/><circle cx="1310" cy="120" r="8"/><circle cx="500" cy="520" r="5"/></g>
+<g font-family="monospace" font-size="28" fill="#3779d8" fill-opacity=".10"><text x="1040" y="650">SELECT * FROM data;</text><text x="170" y="250">0101 1100 1010</text><text x="1180" y="770">&lt;/&gt;  { }</text></g>
+</svg>
